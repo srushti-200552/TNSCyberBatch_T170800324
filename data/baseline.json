@@ -1,0 +1,23 @@
+{
+  "created_at": "2026-10-29T19:40:37",
+  "folder": "D:\\projects\\Cybersecurity TNS individual\\sample_folder",
+  "file_count": 3,
+  "files": {
+    "config.ini": {
+      "sha256": "0d01a8ea984c7a740e8b1d2fbc787186b492edb10a5c13b33205bba01757a75b",
+      "size": 34,
+      "modified": "2026-10-29T19:40:26"
+    },
+    "notes.txt": {
+      "sha256": "d7a1ffcb12cf56a826dead8ed51fb6d00e3abfb0bbbc92358ea27a732679b7aa",
+      "size": 34,
+      "modified": "2026-10-29T19:40:26"
+    },
+    "report.txt": {
+      "sha256": "8e7ff791d223f12a968bbef12027b641c3556a57c24b113dc702e1b852a796c6",
+      "size": 34,
+      "modified": "2026-10-29T19:40:26"
+    }
+  },
+  "baseline_checksum": "8bb191476bd68d8501724b4a54407aa4352925ac26b633a73e3abea5040f5b6c"
+}
